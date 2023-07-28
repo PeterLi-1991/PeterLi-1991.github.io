@@ -1,6 +1,6 @@
 
 async function init(){
-    model= await tf.loadLayersModel('https://github.com/PeterLi-1991/asda/blob/main/model.json');
+    model= await tf.loadLayersModel('https://github.com/PeterLi-1991/PeterLi-1991.github.io/blob/main/model.json');
     console.log('load model...');
 }
 
